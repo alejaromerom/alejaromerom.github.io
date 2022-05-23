@@ -27,7 +27,7 @@ function App() {
 			</nav>
 			<img
 				alt="mi-imagen"
-				src={require("./Assets/Img/mi-imagen.jpg")} // tengo que instalar más?
+				src={require("./Assets/Img/mi-imagen.jpg")}
 				class="rounded float-left"
 			></img>
 			<header className="App-header">
